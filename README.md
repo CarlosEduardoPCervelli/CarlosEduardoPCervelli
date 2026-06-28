@@ -108,5 +108,11 @@ AWS · Docker · SQL avançado
 <sub>aberto a oportunidades de estágio · São Paulo, BR</sub>
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CarlosEduardoPCervelli/CarlosEduardoPCervelli/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CarlosEduardoPCervelli/CarlosEduardoPCervelli/output/github-snake.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/CarlosEduardoPCervelli/CarlosEduardoPCervelli/output/github-snake.svg" />
+</picture>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/seu-usuario](https://www.linkedin.com/in/carlos-eduardo-pires-cervelli-7545b53b0/))
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](ccadu9694corporativo@gmail.com)
