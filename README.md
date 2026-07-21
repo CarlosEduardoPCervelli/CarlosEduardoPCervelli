@@ -92,15 +92,7 @@ AWS · Docker · SQL avançado
 
 ---
 
-## Stats
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarlosEduardoPCervelli&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEduardoPCervelli&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-</div>
 
 ---
 
@@ -108,11 +100,7 @@ AWS · Docker · SQL avançado
 <sub>aberto a oportunidades de estágio · São Paulo, BR</sub>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CarlosEduardoPCervelli/CarlosEduardoPCervelli/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CarlosEduardoPCervelli/CarlosEduardoPCervelli/output/github-snake.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/CarlosEduardoPCervelli/CarlosEduardoPCervelli/output/github-snake.svg" />
-</picture>
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/seu-usuario](https://www.linkedin.com/in/carlos-eduardo-pires-cervelli-7545b53b0/))
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](ccadu9694corporativo@gmail.com)
