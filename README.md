@@ -21,6 +21,11 @@ Gosto de construir APIs bem estruturadas, com testes, documentação e deploy qu
 
 🏆 **2º lugar no FIAP Next** com o **PrognosisHerba**, projeto de um ano feito para um desafio real da Motiva: nós de borda (ESP32-S3, câmera e sensor ToF) medem a altura da vegetação nas rodovias e uma IA na nuvem prioriza as ordens de poda.
 
+<div align="center">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmVpbHZ4eHpvbHcxZTRkdTg2eXFyOWljdm9zZnNwdjJuamprbmEzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3ETPKsngU6VkQ/giphy.gif" width="120" alt="Link, de Zelda, em pixel art"/>
+<br/>
+<sub>Aberto a oportunidades de estágio · São Paulo, BR</sub>
+</div>
 ---
 
 ## Projetos em destaque
