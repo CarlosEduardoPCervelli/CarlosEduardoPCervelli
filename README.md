@@ -36,8 +36,7 @@ Gosto de construir APIs bem estruturadas, com testes, documentação e deploy qu
 | [price-watcher](https://github.com/CarlosEduardoPCervelli/price-watcher-bot) | Bot que monitora preços no Mercado Livre e avisa por Telegram e e-mail, sem repetir o mesmo alerta | Python · Telegram · SMTP |
 | [task-manager-api](https://github.com/CarlosEduardoPCervelli/task-manager-api) | API REST com autenticação JWT, CRUD completo e deploy na AWS | Node.js · Express · PostgreSQL · Prisma |
 | [space-station-monitor](https://github.com/CarlosEduardoPCervelli/space-station-monitor) | Sistema de monitoramento orientado a objetos, com herança, classes abstratas e interfaces | Java |
-| [PrognosisHerba (protótipo)] | Medição da altura da vegetação por imagem para o desafio da Motiva (projeto em equipe) | Python · visão computacional · ESP32 |
-
+|| [PrognosisHerba](https://www.linkedin.com/feed/update/urn:li:activity:7526071267494617088/) | Medição da altura da vegetação por imagem para o desafio da Motiva (projeto em equipe, 2º lugar no FIAP Next) · [ver post no LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7526071267494617088/) | Python · visão computacional · ESP32 |
 **Outros projetos da faculdade:** dashboard VegWatch de monitoramento de vegetação (Node.js, Leaflet e Open-Meteo) · cadastro de equipamentos (Node.js, Express e MongoDB) · Solaris, análise de eficiência energética com a GoodWe (Python e Excel) · estudos de redes neurais com MNIST e pipeline de ML em Jupyter.
 
 ---
