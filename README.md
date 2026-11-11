@@ -5,7 +5,6 @@
 **Desenvolvedor back-end e full-stack em formação**
 Ciência da Computação · FIAP (4º semestre) · São Paulo, Brasil
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmVpbHZ4eHpvbHcxZTRkdTg2eXFyOWljdm9zZnNwdjJuamprbmEzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3ETPKsngU6VkQ/giphy.gif" width="200" alt="Link, de Zelda, em pixel art"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-pires-cervelli-7545b53b0/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ccadu9694corporativo@gmail.com)
